@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hayde_tcy3gad/Desktop/TU/GameCreation/TU_ICA1/Content/Blueprints/DoorAndKeycard.uasset",
+				"C:/Users/hayde_tcy3gad/Desktop/TU/GameCreation/TU_ICA1/Content/Scenarios/Scenario_1_-_The_Ordinary_World.umap"
+			]
+		}
+	]
+}
