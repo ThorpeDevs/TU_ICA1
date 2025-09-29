@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/TU_ICA1-main/Content/Blueprints/Globe.uasset",
+				"D:/TU_ICA1-main/Content/Scenarios/Scenario_1_-_The_Ordinary_World.umap",
+				"D:/TU_ICA1-main/Content/Blueprints/BP_Globe.uasset",
+				"D:/TU_ICA1-main/Content/Blueprints/BP_DandK.uasset",
+				"D:/TU_ICA1-main/Content/Blueprints/DoorAndKeycard.uasset",
+				"D:/TU_ICA1-main/Content/Blueprints/BP_DoorAndKeycard.uasset",
+				"D:/TU_ICA1-main/Content/Blueprints/BP_Screen.uasset",
+				"D:/TU_ICA1-main/Content/Blueprints/BP_BatteryPuzzle.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
 				"C:/Users/hayde_tcy3gad/Desktop/TU/GameCreation/TU_ICA1/Content/Blueprints/DoorAndKeycard.uasset",
 				"C:/Users/hayde_tcy3gad/Desktop/TU/GameCreation/TU_ICA1/Content/Scenarios/Scenario_1_-_The_Ordinary_World.umap"
 			]
